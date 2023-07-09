@@ -1,11 +1,1 @@
 # Saloon Project
-![Screenshot (186)](https://github.com/Raveen-Jayarathne06/Saloon-Project/assets/89702673/ac671225-ef28-4c81-982a-c7aabde76a73)
-![Screenshot (187)](https://github.com/Raveen-Jayarathne06/Saloon-Project/assets/89702673/cba51ee5-bd21-45e6-8743-3aa3e7ccdecb)
-![Screenshot (183)](https://github.com/Raveen-Jayarathne06/Saloon-Project/assets/89702673/ba3cc80a-99bb-4f18-be24-62959edfca50)
-![Screenshot (183)](https://github.com/Raveen-Jayarathne06/Saloon-Project/assets/89702673/6b3add41-b90c-45d5-885f-768638dbf0c6)
-![Screenshot (184)](https://github.com/Raveen-Jayarathne06/Saloon-Project/assets/89702673/d82f8e86-19c3-4485-8775-75af74e17b8d)
-![Screenshot (184)](https://github.com/Raveen-Jayarathne06/Saloon-Project/assets/89702673/7850016d-2018-4c1d-b7e4-388903f583fc)
-![Screenshot (185)](https://github.com/Raveen-Jayarathne06/Saloon-Project/assets/89702673/4a5aa1e8-5fe8-43c3-9b82-6241ee677ff2)
-![Screenshot (185)](https://github.com/Raveen-Jayarathne06/Saloon-Project/assets/89702673/ba66334a-e094-4e32-8dab-f9ec17ff83ac)
-![Screenshot (186)](https://github.com/Raveen-Jayarathne06/Saloon-Project/assets/89702673/1cfbc4d7-0fc7-4afe-b9d7-0649d24e1b69)
-![Screenshot (187)](https://github.com/Raveen-Jayarathne06/Saloon-Project/assets/89702673/0982240b-6671-4fec-87cc-2241a3d14be7)
